@@ -4,8 +4,8 @@ This project was built using pure javascript
 
 **In this project,**
 
-- you can add income and expenses
-- you can delete income and expenses
+- income and expenses can be added
+- income and expenses can be deleted
 
 **The app will calculate**
 
