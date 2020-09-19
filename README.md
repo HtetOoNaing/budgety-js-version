@@ -14,3 +14,7 @@ This project was built using pure javascript
 - total expenses
 - the percentage of total expenses based on total income
 - the percentage of each expense based on total income
+
+### Output Result
+
+![alt text](https://github.com/HtetOoNaing/budgety-js-version/blob/master/result.png?raw=true)
