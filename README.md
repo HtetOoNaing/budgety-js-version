@@ -22,5 +22,7 @@ This project was built using pure javascript
 ### Resource
 
 **JONAS.IO**
+
 **SCHMEDTMANN**
+
 the complete javascript course
