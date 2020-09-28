@@ -1,4 +1,4 @@
-# budgety-js-version
+# Budgety JS Version
 
 This project was built using pure javascript
 
