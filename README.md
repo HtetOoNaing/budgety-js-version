@@ -5,7 +5,7 @@ This project was built using pure javascript
 **In this project,**
 
 - income and expenses can be added
-- income and expenses can be deleted
+- income and expenses can be removed
 
 **The app will calculate**
 
